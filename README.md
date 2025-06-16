@@ -1,3 +1,13 @@
+# Legalease
+
+## Team AlphaQ
+
+**Members:**
+- Ronit Raj
+- Achyut Mukund
+- Akshat Majila
+- Satyam Jha
+
 ## Project Video and Documentation
 
 Check out our project video on YouTube: [Watch Video](https://www.youtube.com/watch?v=VoI0iW7siPc)
