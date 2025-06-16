@@ -1,3 +1,5 @@
-## Project Video
+## Project Video and Documentation
 
 Check out our project video on YouTube: [Watch Video](https://www.youtube.com/watch?v=VoI0iW7siPc)
+
+You can also view the project documentation here: [AlphaQ Framework Documentation](AlphaQ-FrameworkDoc.pdf)
